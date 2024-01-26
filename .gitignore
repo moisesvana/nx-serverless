@@ -4,6 +4,7 @@
 /dist
 /tmp
 /out-tsc
+.esbuild/
 
 # dependencies
 /node_modules
@@ -54,3 +55,6 @@ migrations.json
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+
+
